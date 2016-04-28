@@ -1,0 +1,14 @@
+Oregon 3970000 3 
+Multnomah 756530 41278 272098 1 Portland 
+Washington 550990 52122 169162 1 Hillsboro 
+Clackamas 386080 52080 128201 1 OregonCity
+
+Texas 26960000 3 
+Harris 4092459 42598 1205516 1 Houston 
+Dallas 2368139 43324 807621 1 Dallas 
+Bexar 1714773 42724 488492 1 SanAntonio
+
+California 38800000 3 
+LosAngeles 10170292 62595 3133774 1 LosAngeles 
+SanDiego 3299521 74633 1067846 1 SanDiego 
+Orange 3169776 85009 935287 1 SanDeigo
